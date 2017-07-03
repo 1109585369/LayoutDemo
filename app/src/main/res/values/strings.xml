@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LayoutDemo</string>
+    <string name="title_activity_relative_layout">RelativeLayout</string>
+</resources>
